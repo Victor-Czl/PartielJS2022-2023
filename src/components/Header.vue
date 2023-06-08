@@ -1,7 +1,11 @@
 <template>
+
   <div class="enTete">
+
     <h1>Ma librairie</h1>
+
   </div>
+
 </template>
 
 <style scoped>
@@ -10,4 +14,5 @@
   text-align: center;
   margin-bottom: 20px;
 }
+
 </style>
